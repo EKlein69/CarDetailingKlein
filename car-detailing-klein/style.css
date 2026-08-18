@@ -21,9 +21,9 @@
   --radius-sm: 2px;
   --radius-md: 3px;
 
-  --font-display: "Big Shoulders Display", sans-serif;
-  --font-body: "Manrope", sans-serif;
-  --font-mono: "IBM Plex Mono", monospace;
+  --font-display: Impact, "Arial Black", sans-serif;
+  --font-body: system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+  --font-mono: "Courier New", Courier, monospace;
 
   --container: 1180px;
 }
